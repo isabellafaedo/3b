@@ -6,9 +6,9 @@ h1 {
     color:aliceblue(180,99,221);
 }
 h2 {
-    color: aquamarine;
+    color: board ;
 }
 
 .imagem {
-    width: 50%;
+    width: 100%;
 }
