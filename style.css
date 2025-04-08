@@ -5,3 +5,10 @@ h1 {
     font-style: italic;
     color:aliceblue(180,99,221);
 }
+h2 {
+    color: aquamarine;
+}
+
+.imagem {
+    width: 50%;
+}
