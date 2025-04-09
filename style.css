@@ -6,7 +6,8 @@ h1 {
     color:aliceblue(180,99,221);
 }
 h2 {
-    color: red;
+    font-style: italic;
+    color: red(180,99,221);
 }
 
 .imagem {
