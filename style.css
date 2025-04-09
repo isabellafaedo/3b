@@ -3,13 +3,12 @@ body{
 }
 h1 {
     font-style: italic;
-    color:aliceblue(180,99,221);
+    color:aliceblue;
 }
 h2 {
-    font-style: italic;
-    color: red(180,99,221);
+    color: red;
 }
 
 .imagem {
-    width: 100%;
+    width: 50%;
 }
