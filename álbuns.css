@@ -1,14 +1,14 @@
 body {
-    background-color: #000000;
+    background-color: #ffffff;
     font-family: Verdana, sans-serif;
-    color: #ffffff;
+    color: #000000;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #111;
-    color: white;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     padding: 20px;
 }
 
@@ -23,7 +23,7 @@ main {
 }
 
 h2 {
-    color: #c41414;
+    color: #000000;
 }
 
 ul {
