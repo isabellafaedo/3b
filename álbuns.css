@@ -31,7 +31,8 @@ ul {
     padding-left: 40px;
     margin-bottom: 20px;
 }
-
-h1 {
-    color: #c41414;
+footer {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 10px;
 }
