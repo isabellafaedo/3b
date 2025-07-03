@@ -1,0 +1,37 @@
+body {
+    background-color: #f9f9f9;
+    font-family: Georgia, serif;
+    color: #222;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #bb1313;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+main {
+    padding: 25px;
+}
+h2 {
+    color: #000;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+h1 {
+    color: #ffffff;
+}
