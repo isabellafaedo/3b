@@ -1,15 +1,16 @@
 body {
-    background-color: #ffffff;
-    color: #111;
-    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    font-family: Verdana, sans-serif;
+    color: #000;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #000;
+    background-color: #111;
     color: white;
     padding: 20px;
+    text-align: center;
 }
 
 nav a {
@@ -31,8 +32,12 @@ ul {
     padding-left: 40px;
     margin-bottom: 20px;
 }
+
 footer {
     background-color: #ffffff;
     color: rgb(0, 0, 0);
     padding: 10px;
+}
+h1 {
+    color: #c41414;
 }
