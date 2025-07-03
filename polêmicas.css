@@ -24,7 +24,7 @@ main {
 }
 
 h2 {
-    color: #000000;
+    color: #c41414;
 }
 
 ul {
@@ -34,10 +34,10 @@ ul {
 }
 
 footer {
-    background-color: #111;
-    color: white;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     padding: 10px;
 }
 h1 {
-    color: #ffffff;
+    color: #c41414;
 }
