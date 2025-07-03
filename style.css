@@ -10,7 +10,6 @@ header {
     background-color: #000;
     color: white;
     padding: 20px;
-    text-align: center;
 }
 
 nav a {
@@ -22,7 +21,6 @@ nav a {
 
 main {
     padding: 20px;
-    text-align: center;
 }
 
 h2 {
@@ -40,7 +38,6 @@ h2 {
 footer {
     background-color: #000;
     color: white;
-    text-align: center;
     padding: 10px;
 }
 h1 {
