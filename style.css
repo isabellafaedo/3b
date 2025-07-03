@@ -10,6 +10,7 @@ header {
     background-color: #000;
     color: white;
     padding: 20px;
+    text-align: center;
 }
 
 nav a {
@@ -28,7 +29,7 @@ h2 {
 }
 
 .imagem {
-    width: 90%;
+    width: 100%;
     max-width: 500px;
     margin: 20px auto;
     display: block;
